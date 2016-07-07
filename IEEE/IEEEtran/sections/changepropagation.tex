@@ -1,0 +1,15 @@
+\subsection{Change propagation} 
+We manually created two state machines (model level): one describing Java Thread life-cycle \cite{_java_thread} and the other one representing a telephone presented in \cite{Specification2007}. For each SM code is generated. Code is then manually modified. Each modification test consists of one or several actions described in Table \ref{table:cost}. The original SM is updated by doing a backward process from the modified generated code with the presence of the intermediate and original model. The updated SM ($sm_{updated}$) is in turn compared with the SM created ($sm_{reversed}$) by the reverse engineering (see Fig. \ref{fig:EvaluationStrategyBoth}). A modification test is passed if the corresponding models $sm_{updated}$ and $sm_{reversed}$ are the same. Table \ref{table:change-propa} shows the number of test cases (Tests) applied to each model, of passed test cases (Passed tests) and the result of change propagation experiment. The table shows that our approach is able to update the original state machine following code-side modifications. 
+
+\begin{table}
+\centering
+\caption{Change propagation experimental results}
+\label{table:change-propa}
+\begin{tabular}{|l|l|l|p{3.4cm}|}
+\hline
+\rowcolor{Gray}
+State machine & Tests & Passed tests & Is change propagation passed? \\ \hline
+Java Thread       &    20     &    20      &     Yes             \\ \hline
+Telephone       &   30      &     30     &      Yes       \\ \hline
+\end{tabular}
+\end{table}

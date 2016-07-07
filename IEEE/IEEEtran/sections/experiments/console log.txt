@@ -1,0 +1,2633 @@
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:43.931
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:43.964
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:43.980
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.031
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.095
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.137
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.153
+!MESSAGE waiting => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.153
+!MESSAGE [ROOT(L0)[waiting(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.170
+!MESSAGE waiting => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.186
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.206
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.221
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.221
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.239
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.272
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.288
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.288
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.305
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.338
+!MESSAGE T1.1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.354
+!MESSAGE S1.1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.354
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.1.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.372
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.405
+!MESSAGE null => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.420
+!MESSAGE S2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.420
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.1.1(L3)], S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.438
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.471
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.487
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2), S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.504
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.538
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.553
+!MESSAGE [ROOT(L0)[S1(L1)[S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.571
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.620
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.620
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.653
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.670
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.686
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.704
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.752
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.787
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.802
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.802
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.835
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.835
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.853
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.869
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.869
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.886
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.919
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.935
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.952
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.968
+!MESSAGE end => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.968
+!MESSAGE [ROOT(L0)[end(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:44.986
+!MESSAGE end => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.001
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.019
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.082
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.115
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.130
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.130
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.148
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.164
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.181
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.197
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.197
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.214
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.248
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.263
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.263
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.296
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.314
+!MESSAGE T1.1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.330
+!MESSAGE S1.1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.330
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.1.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.347
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.380
+!MESSAGE T1.2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.396
+!MESSAGE S1.2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.396
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.1.1(L3), S1.2.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.414
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.462
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.462
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.2.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.480
+!MESSAGE S1.2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.513
+!MESSAGE S1.2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.529
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.562
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.595
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.611
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.628
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.646
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.662
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.695
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.712
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.749
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.752
+!MESSAGE waiting => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.767
+!MESSAGE [ROOT(L0)[waiting(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.816
+!MESSAGE waiting => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.816
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.834
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.849
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.849
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.867
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.900
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.916
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.916
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.933
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.966
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:45.982
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.000
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.015
+!MESSAGE ExitPoint1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.048
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.066
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.082
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.099
+!MESSAGE ExitPoint1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.132
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.212
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.247
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.262
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.262
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.295
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.311
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.322
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.337
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.337
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.348
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.375
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.391
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.406
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.424
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.457
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.473
+!MESSAGE S2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.473
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2), S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.490
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.523
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.539
+!MESSAGE [ROOT(L0)[S1(L1)[S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.557
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.590
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.623
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.639
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.672
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.689
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.705
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.723
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.818
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.836
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.851
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.851
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.869
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.885
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.918
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.918
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.918
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.935
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.969
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.984
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:46.984
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.002
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.035
+!MESSAGE T1.1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.051
+!MESSAGE S1.1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.051
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.1.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.068
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.101
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.117
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.135
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.168
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.183
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.201
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.217
+!MESSAGE ExitPoint1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.235
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.268
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.284
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.302
+!MESSAGE ExitPoint1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.335
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.350
+!MESSAGE S2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.350
+!MESSAGE [ROOT(L0)[S2(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.368
+!MESSAGE S2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.383
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.401
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.465
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.483
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.499
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.499
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.516
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.532
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.549
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.565
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.565
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.598
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.616
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.631
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.631
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.649
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.683
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.699
+!MESSAGE S2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.699
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2), S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.716
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.732
+!MESSAGE [ROOT(L0)[S1(L1)[S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.750
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.783
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.798
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.847
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.847
+!MESSAGE ExitPoint1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.865
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.880
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.914
+!MESSAGE ExitPoint1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.931
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:47.980
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.014
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.030
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.030
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.047
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.063
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.081
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.096
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.096
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.114
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.147
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.163
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.163
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.180
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.196
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.213
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.229
+!MESSAGE ExitPoint1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.247
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.280
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.295
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.313
+!MESSAGE ExitPoint1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.346
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.362
+!MESSAGE S3 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.362
+!MESSAGE [ROOT(L0)[S3(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.379
+!MESSAGE S3 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.395
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.413
+!MESSAGE T6 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.524
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.558
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.574
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.574
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.591
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.607
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.624
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.640
+!MESSAGE EntryPoint1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.640
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.640
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.658
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.706
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.706
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.706
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.724
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.757
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.773
+!MESSAGE S2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.773
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2), S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.790
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.806
+!MESSAGE [ROOT(L0)[S1(L1)[S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.824
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.857
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.872
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.890
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.923
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.939
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:48.943
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.000
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.033
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.048
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.048
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.066
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.082
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.099
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.115
+!MESSAGE EntryPoint1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.115
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.115
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.132
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.166
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.181
+!MESSAGE S2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.181
+!MESSAGE [ROOT(L0)[S1(L1)[S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.199
+!MESSAGE EntryPoint1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.232
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.248
+!MESSAGE S1.2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.248
+!MESSAGE [ROOT(L0)[S1(L1)[S2.1(L2), S1.2(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.266
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.281
+!MESSAGE [ROOT(L0)[S1(L1)[S1.2(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.314
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.341
+!MESSAGE S1.2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.357
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.374
+!MESSAGE T1.3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.407
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.423
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.456
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.505
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.538
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.554
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.554
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.571
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.587
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.605
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.620
+!MESSAGE EntryPoint1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.620
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.620
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.638
+!MESSAGE EntryPoint1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.687
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.687
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.687
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.704
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.720
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.737
+!MESSAGE T1.3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.770
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.786
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.804
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.853
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.879
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.911
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.911
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.959
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.975
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:49.993
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.008
+!MESSAGE EntryPoint1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.008
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.008
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.041
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.059
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.075
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.075
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.092
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.108
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.125
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.159
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.174
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.192
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.241
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.274
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.289
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.289
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.307
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.323
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.366
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.366
+!MESSAGE EntryPoint1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.366
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.366
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.477
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.493
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.493
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.510
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.526
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.559
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.701
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.735
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.750
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.750
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.768
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.783
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.801
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.832
+!MESSAGE Increment => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.848
+!MESSAGE [ROOT(L0)[Increment(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.850
+!MESSAGE Increment => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.865
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.883
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.899
+!MESSAGE Choice1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.916
+!MESSAGE Choice1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.981
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.981
+!MESSAGE Increment => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:50.981
+!MESSAGE [ROOT(L0)[Increment(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.045
+!MESSAGE Increment => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.061
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.078
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.094
+!MESSAGE Choice1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.127
+!MESSAGE Choice1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.145
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.160
+!MESSAGE Increment => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.176
+!MESSAGE [ROOT(L0)[Increment(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.178
+!MESSAGE Increment => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.193
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.204
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.220
+!MESSAGE Choice1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.253
+!MESSAGE Choice1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.286
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.302
+!MESSAGE Increment => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.302
+!MESSAGE [ROOT(L0)[Increment(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.304
+!MESSAGE Increment => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.335
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.353
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.368
+!MESSAGE Choice1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.386
+!MESSAGE Choice1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.419
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.435
+!MESSAGE Increment => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.435
+!MESSAGE [ROOT(L0)[Increment(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.452
+!MESSAGE Increment => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.468
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.486
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.501
+!MESSAGE Choice1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.519
+!MESSAGE Choice1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.552
+!MESSAGE T5 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.601
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.634
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.650
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.650
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.683
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.683
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.700
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.716
+!MESSAGE Choice1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.734
+!MESSAGE Choice1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.767
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.782
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.782
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.800
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.816
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.833
+!MESSAGE T6 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.882
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.915
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.931
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.931
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.949
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.965
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:51.995
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.010
+!MESSAGE Choice1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.028
+!MESSAGE Choice1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.077
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.077
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.077
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.172
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.188
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.205
+!MESSAGE T6 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.306
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.331
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.347
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.347
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.383
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.383
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.394
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.409
+!MESSAGE Fork1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.427
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.443
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.443
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.490
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.539
+!MESSAGE T3.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.539
+!MESSAGE S1.3 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.555
+!MESSAGE [ROOT(L0)[S1(L1)[S1.3(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.555
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.555
+!MESSAGE [ROOT(L0)[S1(L1)[S1.3(L2), S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.557
+!MESSAGE Fork1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.593
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.608
+!MESSAGE S1.2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.608
+!MESSAGE [ROOT(L0)[S1(L1)[S1.3(L2), S1.1(L2), S1.2(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.626
+!MESSAGE S1.3 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.642
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2), S1.2(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.653
+!MESSAGE T3.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.678
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.693
+!MESSAGE [ROOT(L0)[S1(L1)[S1.2(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.704
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.729
+!MESSAGE S1.2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.745
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.771
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.787
+!MESSAGE ExitPoint1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.805
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.820
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.838
+!MESSAGE ExitPoint1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.871
+!MESSAGE T5 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.920
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.953
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.969
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.969
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:52.990
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.006
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.023
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.039
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.039
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.039
+!MESSAGE Fork1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.057
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.072
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.072
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.072
+!MESSAGE S1.1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.072
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.1.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.090
+!MESSAGE Fork1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.123
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.139
+!MESSAGE S1.2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.139
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.1.1(L3), S1.2.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.156
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.172
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.2.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.189
+!MESSAGE T2.3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.223
+!MESSAGE S1.2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.238
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.256
+!MESSAGE T2.4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.289
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.305
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.322
+!MESSAGE T2.5 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.355
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.371
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.389
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.484
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.511
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.526
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.526
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.544
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.560
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.577
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.593
+!MESSAGE Fork1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.610
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.626
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.626
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.626
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.626
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.644
+!MESSAGE Fork1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.677
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.692
+!MESSAGE S2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.692
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2), S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.726
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.743
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.759
+!MESSAGE [ROOT(L0)[S1(L1)[S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.776
+!MESSAGE T2.3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.825
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.843
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.858
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.876
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.925
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.925
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.942
+!MESSAGE T2.4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.958
+!MESSAGE Join1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:53.976
+!MESSAGE Join1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.024
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.058
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.091
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.106
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.106
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.124
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.140
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.157
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.173
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.173
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.173
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.173
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.190
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.239
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.239
+!MESSAGE S1.2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.239
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.2.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.272
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.290
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.306
+!MESSAGE S1.1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.306
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.2.1(L3), S1.1.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.323
+!MESSAGE S1.2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.339
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.1.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.356
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.390
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.405
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.423
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.438
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.456
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.472
+!MESSAGE Join1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.489
+!MESSAGE Join1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.522
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.556
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.571
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.604
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.604
+!MESSAGE S2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.604
+!MESSAGE [ROOT(L0)[S2(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.606
+!MESSAGE S2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.638
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.655
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.704
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.746
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.762
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.762
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.779
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.795
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.816
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.832
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.832
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.837
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.877
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.892
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.892
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.972
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:54.988
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.005
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.021
+!MESSAGE S1.2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.021
+!MESSAGE [ROOT(L0)[S1(L1)[S1.2(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.039
+!MESSAGE S1.2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.054
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.072
+!MESSAGE T1.4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.087
+!MESSAGE Choice1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.105
+!MESSAGE Choice1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.138
+!MESSAGE T1.6 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.154
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.154
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.187
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.187
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.205
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.220
+!MESSAGE S1.2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.220
+!MESSAGE [ROOT(L0)[S1(L1)[S1.2(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.238
+!MESSAGE S1.2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.253
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.271
+!MESSAGE T1.4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.287
+!MESSAGE Choice1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.304
+!MESSAGE Choice1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.337
+!MESSAGE T1.7 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.353
+!MESSAGE ExitPoint1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.371
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.386
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.419
+!MESSAGE ExitPoint1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.437
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.453
+!MESSAGE EntryPoint1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.453
+!MESSAGE S2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.453
+!MESSAGE [ROOT(L0)[S2(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.470
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.503
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.519
+!MESSAGE S2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.519
+!MESSAGE [ROOT(L0)[S2(L1)[S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.537
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.570
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.585
+!MESSAGE S2.2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.585
+!MESSAGE [ROOT(L0)[S2(L1)[S2.1(L2), S2.2(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.603
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.619
+!MESSAGE [ROOT(L0)[S2(L1)[S2.2(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.636
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.686
+!MESSAGE S2.2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.686
+!MESSAGE [ROOT(L0)[S2(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.704
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.737
+!MESSAGE S2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.752
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.770
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.850
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.877
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.892
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.892
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.910
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.925
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.943
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.959
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.959
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:55.976
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.009
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.025
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.025
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.043
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.076
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.091
+!MESSAGE S2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.091
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2), S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.110
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.143
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.159
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.176
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.192
+!MESSAGE Terminate1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.210
+!MESSAGE Terminate1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.258
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.292
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.307
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.307
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.340
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.340
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.358
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.374
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.374
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.391
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.424
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.440
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.440
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.458
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.506
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.506
+!MESSAGE S2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.506
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2), S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.524
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.557
+!MESSAGE T3.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.573
+!MESSAGE S3.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.573
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2), S2.1(L2), S3.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.590
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.606
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2), S3.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.624
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.639
+!MESSAGE Terminate1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.658
+!MESSAGE Terminate1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.707
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.740
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.755
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.755
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.773
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.789
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.791
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.822
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.822
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.822
+!MESSAGE Terminate1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.839
+!MESSAGE Terminate1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.904
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.921
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.937
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.937
+!MESSAGE [ROOT(L0)[S1.1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.955
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:56.988
+!MESSAGE T1.1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.003
+!MESSAGE S1.1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.003
+!MESSAGE [ROOT(L0)[S1.1(L1)[S1.1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.021
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.054
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.070
+!MESSAGE S2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.070
+!MESSAGE [ROOT(L0)[S1.1(L1)[S1.1.1(L2)], S2.1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.087
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.121
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.136
+!MESSAGE [ROOT(L0)[S1.1(L1), S2.1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.154
+!MESSAGE T1.1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.187
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.220
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.236
+!MESSAGE [ROOT(L0)[S2.1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.253
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.302
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.336
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.352
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.369
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.465
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.492
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.507
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.507
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.527
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.542
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.561
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.577
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.577
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.594
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.627
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.643
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.676
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.676
+!MESSAGE S2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.676
+!MESSAGE [ROOT(L0)[S2(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.709
+!MESSAGE S2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.725
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.743
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.758
+!MESSAGE S3 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.758
+!MESSAGE [ROOT(L0)[S3(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.777
+!MESSAGE S3 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.792
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.810
+!MESSAGE T6 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.853
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.887
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.903
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.903
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.920
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.936
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.953
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.969
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:57.969
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.065
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.078
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.081
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.123
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.139
+!MESSAGE S2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.139
+!MESSAGE [ROOT(L0)[S2(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.189
+!MESSAGE S2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.204
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.238
+!MESSAGE T6 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.238
+!MESSAGE S3 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.253
+!MESSAGE [ROOT(L0)[S3(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.255
+!MESSAGE S3 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.271
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.304
+!MESSAGE T7 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.400
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.440
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.456
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.456
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.490
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.490
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.507
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.523
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.523
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.541
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.574
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.589
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.589
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.607
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.640
+!MESSAGE T1.1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.656
+!MESSAGE S1.1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.656
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.1.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.693
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.726
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.726
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.744
+!MESSAGE T1.1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.777
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.810
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.826
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.843
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.859
+!MESSAGE S1.2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.859
+!MESSAGE [ROOT(L0)[S1(L1)[S1.2(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.877
+!MESSAGE S1.2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.910
+!MESSAGE S1.2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.925
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:58.990
+!MESSAGE T1.3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.016
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.032
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.065
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.098
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.125
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.141
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.141
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.158
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.174
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.191
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.207
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.207
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.225
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.259
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.274
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.274
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.292
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.325
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.341
+!MESSAGE S2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.341
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2), S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.358
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.392
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.407
+!MESSAGE [ROOT(L0)[S1(L1)[S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.425
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.458
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.491
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.507
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.524
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.558
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.591
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.606
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.624
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.640
+!MESSAGE end => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.640
+!MESSAGE [ROOT(L0)[end(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.657
+!MESSAGE end => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.673
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.690
+!MESSAGE T5 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.739
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.772
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.788
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.788
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.806
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.821
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.839
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.854
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.854
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.872
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.905
+!MESSAGE T1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.921
+!MESSAGE S1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.921
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.938
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.972
+!MESSAGE T1.1.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.987
+!MESSAGE S1.1.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:17:59.987
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.1.1(L3)]]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.005
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.038
+!MESSAGE T2.1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.054
+!MESSAGE S2.1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.054
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2)[S1.1.1(L3)], S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.071
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.104
+!MESSAGE S1.1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.120
+!MESSAGE [ROOT(L0)[S1(L1)[S1.1(L2), S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.138
+!MESSAGE T1.1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.212
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.239
+!MESSAGE S1.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.270
+!MESSAGE [ROOT(L0)[S1(L1)[S2.1(L2)]]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.288
+!MESSAGE T1.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.321
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.354
+!MESSAGE S2.1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.370
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.394
+!MESSAGE T2.2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.427
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.461
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.476
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.494
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.543
+!MESSAGE Initial1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.576
+!MESSAGE T1 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.591
+!MESSAGE wait => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.591
+!MESSAGE [ROOT(L0)[wait(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.625
+!MESSAGE wait => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.625
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.642
+!MESSAGE T2 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.658
+!MESSAGE S1 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.658
+!MESSAGE [ROOT(L0)[S1(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.675
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.709
+!MESSAGE S1 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.724
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.742
+!MESSAGE T3 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.757
+!MESSAGE S2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.757
+!MESSAGE [ROOT(L0)[S2(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.775
+!MESSAGE S2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.791
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.824
+!MESSAGE T4 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.824
+!MESSAGE S2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.824
+!MESSAGE [ROOT(L0)[S2(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.841
+!MESSAGE S2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.857
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.875
+!MESSAGE T5 => TRAVERSED
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.890
+!MESSAGE S2 => ACTIVE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.890
+!MESSAGE [ROOT(L0)[S2(L1)]]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.958
+!MESSAGE S2 => IDLE
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.974
+!MESSAGE [ROOT(L0)]
+
+!ENTRY org.eclipse.papyrus.moka.fuml.statemachines 1 0 2016-04-20 15:18:00.991
+!MESSAGE T6 => TRAVERSED

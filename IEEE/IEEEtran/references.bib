@@ -1,0 +1,214 @@
+ @IEEEtranBSTCTL{IEEEexample:BSTcontrol,
+CTLdash_repeated_names = "no",
+}
+
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\definecolor{LightCyan}{rgb}{0.88,1,1}
+\definecolor{BluishGray}{RGB}{226,227,231}
+\definecolor{LightGray}{gray}{0.95}
+\definecolor{Gray}{gray}{0.85}
+\usepackage{algpseudocode,algorithmicx}
+\usepackage{comment}
+\newcommand*\DNA{\textsc{dna}}
+
+\newcommand*\Let[2]{\State #1 $\gets$ #2}
+\algrenewcommand\algorithmicrequire{\textbf{Input:}}
+\algrenewcommand\algorithmicensure{\textbf{Output:}}
+
+% define environments for remarks and examples
+\newtheorem{remark}{Remark}[section]
+\newtheorem{example}[remark]{Example}
+\newcommand{\ti}{\textit}
+\newcommand{\tb}{\textbf}
+
+
+%
+%
+\title{From UML State Machine to code and back again!}
+%
+%
+\author{
+\IEEEauthorblockN{Aleksander Denisiuk}
+\IEEEauthorblockA{
+University of Warmia and Mazury\\
+in Olsztyn\\
+ul.\ S{\l}oneczna 54, 10-710 Olsztyn, Poland\\
+Email: denisjuk@matman.uwm.edu.pl}
+\and
+\IEEEauthorblockN{Second Author, Third Author}
+\IEEEauthorblockA{Universit\'{e} de Paris-Sud,\\
+Laboratoire d'Analyse Num\'{e}rique,\\
+B\^{a}timent 425,\\
+F-91405 Orsay Cedex, France\\
+Email: \{second, third\}@subdomain.domain.fr}
+}
+
+% conference papers do not typically use \thanks and this command
+% is locked out in conference mode. If really needed, such as for
+% the acknowledgment of grants, issue a \IEEEoverridecommandlockouts
+% after \documentclass
+
+% for over three affiliations, or if they all won't fit within the width
+% of the page, use this alternative format:
+%
+%\author{\IEEEauthorblockN{Michael Shell\IEEEauthorrefmark{1},
+%Homer Simpson\IEEEauthorrefmark{2},
+%James Kirk\IEEEauthorrefmark{3},
+%Montgomery Scott\IEEEauthorrefmark{3} and
+%Eldon Tyrell\IEEEauthorrefmark{4}}
+%\IEEEauthorblockA{\IEEEauthorrefmark{1}School of Electrical and Computer Engineering\\
+%Georgia Institute of Technology,
+%Atlanta, Georgia 30332--0250\\ Email: see http://www.michaelshell.org/contact.html}
+%\IEEEauthorblockA{\IEEEauthorrefmark{2}Twentieth Century Fox, Springfield, USA\\
+%Email: homer@thesimpsons.com}
+%\IEEEauthorblockA{\IEEEauthorrefmark{3}Starfleet Academy, San Francisco, California 96678-2391\\
+%Telephone: (800) 555--1212, Fax: (888) 555--1212}
+%\IEEEauthorblockA{\IEEEauthorrefmark{4}Tyrell Inc., 123 Replicant Street, Los Angeles, California 90210--4321}}
+
+
+
+
+
+\begin{document}
+\maketitle              % typeset the title of the contribution
+
+\input{sections/abstract}
+
+\begin{comment}
+\section{Figures and Tables}
+To insert a figure you are encouraged to use the  \verb|graphicx| package. Please, include this package in the preamble with the option \verb|dvips|:
+\begin{verbatim}
+\usepackage[dvips]{graphicx}
+\end{verbatim}
+Figures in the \verb|eps| format should be inserted in the \verb|figure| environment, as follows:
+\begin{verbatim}
+\begin{figure}[tbp]
+\centering
+\includegraphics[width=0.75\hsize]
+     {test.eps}
+\caption{Sinusoid}
+\end{figure}
+\end{verbatim}
+%
+
+
+
+
+\begin{example}[the \texttt{algorithm} environment]\label{algorytm}
+Coding:\begin{verbatim}\begin{algorithm}[tbp]
+\caption{Calculating $x$ to the
+power~$n$\label{example}}
+\begin{algorithmic}[2]
+\REQUIRE $n\ge 0$
+\ENSURE $a=x^n$
+\STATE $k\leftarrow n$; $a\leftarrow 1$;
+\STATE $b\leftarrow x$;
+\WHILE[Invariant: $x^n=a\cdot b^k$]
+{$k>0$}
+\IF{$k$ is even}
+\STATE $k\leftarrow k/2$;
+\STATE $b\leftarrow b\cdot b$;
+\ELSE[$k$ is odd]
+\STATE $k\leftarrow k-1$;
+\STATE $a\leftarrow a\cdot b$;
+\ENDIF
+\ENDWHILE
+\end{algorithmic}
+\end{algorithm}
+\end{verbatim}
+\end{example}
+
+Output is given on the page~\pageref{example}
+\begin{algorithm}[tbp]
+\caption{Calculating $x$ to the
+power~$n$\label{example}}
+\begin{algorithmic}[2]
+\REQUIRE $n\ge 0$
+\ENSURE $a=x^n$
+\STATE $k\leftarrow n$; $a\leftarrow 1$;
+\STATE $b\leftarrow x$;
+\WHILE[Invariant: $x^n=a\cdot b^k$]
+{$k>0$}
+\IF{$k$ is even}
+\STATE $k\leftarrow k/2$;
+\STATE $b\leftarrow b\cdot b$;
+\ELSE[$k$ is odd]
+\STATE $k\leftarrow k-1$;
+\STATE $a\leftarrow a\cdot b$;
+\ENDIF
+\ENDWHILE
+\end{algorithmic}
+\end{algorithm}
+
+\begin{example}[C++]
+Coding:
+\begin{verbatim}
+\lstset{language=C++}
+\begin{lstlisting}
+int power(int x,int n){
+   int k,a,b;
+   k=n; a=1; b=x;
+   while(k>0){//Invariant: x^n=a*b^k
+      if (k % 2==0){
+         k/=2;
+         b*=b;
+      }
+      else{
+         k--;
+         a*=b;
+      }
+   }
+   return a;
+}
+\end{lstlisting}
+
+\end{verbatim}
+Output is shown on the page~\pageref{c++}
+\begin{algorithm}[tbp]
+\caption{Calculating $x$ to the
+power~$n$ in C++\label{c++}}
+\lstset{language=C++}
+\begin{lstlisting}
+int power(int x,int n){
+   int k,a,b;
+   k=n; a=1; b=x;
+   while (k>0) {// Invariant: x^n=a*b^k
+      if (k % 2==0){
+         k/=2;
+         b*=b;
+      }
+      else{
+         k--;
+         a*=b;
+      }
+   }
+   return a;
+}
+\end{lstlisting}
+\end{algorithm}
+\end{example}
+\end{comment}
+
+
+\input{sections/introduction}
+\input{sections/related_works}
+\input{sections/approach}
+\input{sections/implementation}
+\input{sections/experiments}
+\input{sections/conclusion}
+
+\section*{Appendix}
+Appendixes, if needed, appear before the acknowledgment.
+
+\section*{Acknowledgment}
+The preferred spelling of the word ``acknowledgment'' in America is without an ``e'' after the ``g.''  Try to avoid the stilted expression, ``One of us (R.~B.~G.) thanks \dots'' Instead, try ``R.~B.~G.\ thanks\dots''  Put sponsor acknowledgments in the unnumbered footnote on the first page.
+
+\bibliographystyle{IEEEtran}
+\bibliography{refs}
+
+
+
+
+\end{document}

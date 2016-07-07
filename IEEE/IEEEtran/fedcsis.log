@@ -1,0 +1,592 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.1)  10 MAY 2016 11:37
+entering extended mode
+**fedcsis.tex
+(fedcsis.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+(IEEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 366.
+
+(C:\Users\VP242103\Downloads\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) (C:\Users\VP242103\Downloads\tex\latex\preprint\balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen117
+)
+** ATTENTION: Overriding command lockouts (line 13).
+(C:\Users\VP242103\Downloads\tex\latex\graphics\graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\VP242103\Downloads\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\VP242103\Downloads\tex\latex\graphics\graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\VP242103\Downloads\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\Users\VP242103\Downloads\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(C:\Users\VP242103\Downloads\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\Users\VP242103\Downloads\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(C:\Users\VP242103\Downloads\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen118
+\Gin@req@width=\dimen119
+)
+(C:\Users\VP242103\Downloads\tex\latex\algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(C:\Users\VP242103\Downloads\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count92
+\float@exts=\toks16
+\float@box=\box27
+\@float@everytoks=\toks17
+\@floatcapt=\box28
+)
+(C:\Users\VP242103\Downloads\tex\latex\base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks18
+\c@algorithm=\count93
+)
+(C:\Users\VP242103\Downloads\tex\latex\listings\listings.sty
+\lst@mode=\count94
+\lst@gtempboxa=\box29
+\lst@token=\toks19
+\lst@length=\count95
+\lst@currlwidth=\dimen120
+\lst@column=\count96
+\lst@pos=\count97
+\lst@lostspace=\dimen121
+\lst@width=\dimen122
+\lst@newlines=\count98
+\lst@lineno=\count99
+\lst@maxwidth=\dimen123
+
+(C:\Users\VP242103\Downloads\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count100
+\lst@skipnumbers=\count101
+\lst@framebox=\box30
+)
+(C:\Users\VP242103\Downloads\tex\latex\listings\listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(C:\Users\VP242103\Downloads\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(C:\Users\VP242103\Downloads\tex\latex\base\ot4enc.def
+File: ot4enc.def 2005/09/27 v1.99g Standard LaTeX file
+)
+(C:\Users\VP242103\Downloads\tex\latex\base\t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 105.
+
+(C:\Users\VP242103\Downloads\tex\latex\psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
+(C:\Users\VP242103\Downloads\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\VP242103\Downloads\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\Users\VP242103\Downloads\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen124
+))
+(C:\Users\VP242103\Downloads\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen125
+)
+(C:\Users\VP242103\Downloads\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
+\dotsspace@=\muskip10
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks21
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks22
+\eqnshift@=\dimen127
+\alignsep@=\dimen128
+\tagshift@=\dimen129
+\tagwidth@=\dimen130
+\totwidth@=\dimen131
+\lineht@=\dimen132
+\@envbody=\toks23
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(C:\Users\VP242103\Downloads\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\VP242103\Downloads\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen133
+)
+(C:\Users\VP242103\Downloads\tex\latex\filecontents\filecontents.sty
+Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaT
+eX document
+)
+(C:\Users\VP242103\Downloads\tex\latex\graphics\color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(C:\Users\VP242103\Downloads\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+(C:\Users\VP242103\Downloads\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(C:\Users\VP242103\Downloads\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(C:\Users\VP242103\Downloads\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(C:\Users\VP242103\Downloads\tex\latex\tools\array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen134
+\extrarowheight=\dimen135
+\NC@list=\toks25
+\extratabsurround=\skip47
+\backup@length=\skip48
+)
+\everycr=\toks26
+\minrowclearance=\skip49
+)
+(C:\Users\VP242103\Downloads\tex\latex\algorithmicx\algpseudocode.sty
+Package: algpseudocode 
+
+(C:\Users\VP242103\Downloads\tex\latex\algorithmicx\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count114
+\c@ALG@rem=\count115
+\c@ALG@nested=\count116
+\ALG@tlm=\skip50
+\ALG@thistlm=\skip51
+\c@ALG@Lnr=\count117
+\c@ALG@blocknr=\count118
+\c@ALG@storecount=\count119
+\c@ALG@tmpcounter=\count120
+\ALG@tmplength=\skip52
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (C:\Users\VP242103\Downloads\tex\latex\comment\comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+\c@remark=\count121
+ (fedcsis.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 100.
+LaTeX Font Info:    Try loading font information for OT4+cmr on input line 100.
+
+
+(C:\Users\VP242103\Downloads\tex\latex\polski\ot4cmr.fd
+File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 100.
+
+(C:\Users\VP242103\Downloads\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count122
+\scratchdimen=\dimen136
+\scratchbox=\box33
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen137
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks28
+)
+\c@lstlisting=\count128
+ (sections/abstract.tex) Excluding 'comment' comment.
+(sections/introduction.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 55.
+ [1{C:/Users/VP242103/Downloads/pdftex/config/pdftex.map}
+
+
+]) (sections/approach.tex
+<figures/flowchart.pdf, id=9, 963.6pt x 542.025pt>
+File: figures/flowchart.pdf Graphic file (type pdf)
+ <use figures/flowchart.pdf>
+Package pdftex.def Info: figures/flowchart.pdf used on input line 18.
+(pdftex.def)             Requested size: 252.0pt x 124.10806pt.
+
+Excluding 'comment' comment. [2 <./figures/flowchart.pdf>]
+<figures/statemachine.pdf, id=57, 614.295pt x 794.97pt>
+File: figures/statemachine.pdf Graphic file (type pdf)
+
+<use figures/statemachine.pdf>
+Package pdftex.def Info: figures/statemachine.pdf used on input line 70.
+(pdftex.def)             Requested size: 201.60077pt x 71.49948pt.
+ Excluding 'comment' comment.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 95.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 99.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 99.
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]|\T1/ptm/m/n/8 Root::Client::StateMachine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]|\T1/ptm/m/n/8 sPrefix::fromStoppedToOperating
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]|\T1/ptm/m/n/8 tPrefix::StateMachine::transition
+ []
+
+
+Overfull \hbox (0.67564pt too wide) in paragraph at lines 109--109
+[]|\T1/ptm/m/n/8 sPrefix::Initialize(OpaqueBehavior)| 
+ []
+
+
+Overfull \hbox (0.82202pt too wide) in paragraph at lines 99--112
+ [][] 
+ []
+
+[3 <./figures/statemachine.pdf>]
+(C:\Users\VP242103\Downloads\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(C:\Users\VP242103\Downloads\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(C:\Users\VP242103\Downloads\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 126.
+
+
+(C:\Users\VP242103\Downloads\tex\latex\psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 126.
+
+Overfull \hbox (12.00269pt too wide) in paragraph at lines 131--132
+[][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (6.00262pt too wide) in paragraph at lines 162--163
+[][][][][][][][][][][][][] 
+ []
+
+
+Underfull \vbox (badness 1102) has occurred while \output is active []
+
+
+<figures/details2.pdf, id=92, 963.6pt x 542.025pt>
+File: figures/details2.pdf Graphic file (type pdf)
+ <use figures/details2.pdf>
+Package pdftex.def Info: figures/details2.pdf used on input line 177.
+(pdftex.def)             Requested size: 201.60077pt x 78.4213pt.
+
+[4 <./figures/details2.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `htbp') on input line 246.
+
+Excluding 'comment' comment.
+<figures/bkwmapping.pdf, id=165, 963.6pt x 542.025pt>
+File: figures/bkwmapping.pdf Graphic file (type pdf)
+
+<use figures/bkwmapping.pdf>
+Package pdftex.def Info: figures/bkwmapping.pdf used on input line 288.
+(pdftex.def)             Requested size: 453.60077pt x 146.8265pt.
+
+<figures/asttransition.pdf, id=167, 399.894pt x 105.996pt>
+File: figures/asttransition.pdf Graphic file (type pdf)
+
+<use figures/asttransition.pdf>
+Package pdftex.def Info: figures/asttransition.pdf used on input line 295.
+(pdftex.def)             Requested size: 252.0pt x 45.27818pt.
+ [5] Excluding 'comment' comment.
+Excluding 'comment' comment.) (sections/implementation.tex)
+(sections/experiments.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./figures/bkwmapping.pdf> <./figures/asttransition.pdf>]
+Excluding 'comment' comment.
+<figures/EvaluationStrategyBoth.pdf, id=406, 597.432pt x 845.07718pt>
+File: figures/EvaluationStrategyBoth.pdf Graphic file (type pdf)
+
+<use figures/EvaluationStrategyBoth.pdf>
+Package pdftex.def Info: figures/EvaluationStrategyBoth.pdf used on input line 
+38.
+(pdftex.def)             Requested size: 151.20154pt x 52.03659pt.
+ Excluding 'comment' comment.
+Excluding 'comment' comment. [7 <./figures/EvaluationStrategyBoth.pdf>]
+<figures/semanticconformance.pdf, id=450, 963.6pt x 542.025pt>
+File: figures/semanticconformance.pdf Graphic file (type pdf)
+
+<use figures/semanticconformance.pdf>
+Package pdftex.def Info: figures/semanticconformance.pdf used on input line 149
+.
+(pdftex.def)             Requested size: 201.60077pt x 50.16443pt.
+
+<figures/Deferred004Revised.pdf, id=452, 481.97012pt x 220.47935pt>
+File: figures/Deferred004Revised.pdf Graphic file (type pdf)
+
+<use figures/Deferred004Revised.pdf>
+Package pdftex.def Info: figures/Deferred004Revised.pdf used on input line 156.
+
+(pdftex.def)             Requested size: 252.0pt x 115.27567pt.
+ Excluding 'comment' comment.
+<figures/fsm.pdf, id=454, 963.6pt x 542.025pt>
+File: figures/fsm.pdf Graphic file (type pdf)
+ <use figures/fsm.pdf>
+Package pdftex.def Info: figures/fsm.pdf used on input line 187.
+(pdftex.def)             Requested size: 214.20154pt x 38.65742pt.
+
+(sections/developmentcost.tex) [8 <./figures/semanticconformance.pdf> <./figure
+s/Deferred004Revised.pdf> <./figures/fsm.pdf>]) (sections/related_works.tex)
+(sections/conclusion.tex [9]) (fedcsis.bbl
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+)
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[10] (fedcsis.aux) ) 
+Here is how much of TeX's memory you used:
+ 5724 strings out of 493673
+ 80370 string characters out of 3144029
+ 208478 words of memory out of 3000000
+ 8955 multiletter control sequences out of 15000+200000
+ 113021 words of font info for 112 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 34i,11n,58p,1636b,1365s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/VP242103/Downloads/fonts/enc/dvips/fontname/8r.en
+c}<C:/Users/VP242103/Downloads/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Us
+ers/VP242103/Downloads/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/VP242
+103/Downloads/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/VP242103/Downl
+oads/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/VP242103/Downloads/fon
+ts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/VP242103/Downloads/fonts/type1/
+urw/times/utmb8a.pfb><C:/Users/VP242103/Downloads/fonts/type1/urw/times/utmbi8a
+.pfb><C:/Users/VP242103/Downloads/fonts/type1/urw/times/utmr8a.pfb><C:/Users/VP
+242103/Downloads/fonts/type1/urw/times/utmri8a.pfb>
+Output written on fedcsis.pdf (10 pages, 935601 bytes).
+PDF statistics:
+ 1090 PDF objects out of 1200 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 100 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,30 @@
+\subsection{Development/maintenance cost}
+\label{subsec:cost}
+To compare the development/maintenance cost, we investigate steps need to be done in generated code and models, respectively, to do semantically equivalents. For example, to add a state, on one hand, one step needed in USM diagrams is \ti{dragging \& dropping the state notation to the appropriate parent}. On the other hand, three code modifications are (1) \ti{create a state class inheriting from the base state and its constructors}, (2) \ti{add to the parent state class an attribute}, and (3) \ti{add a line of code to initialize the state attribute in the parent state constructor}. Table \ref{table:cost} shows the number of steps needed for each operation. In this table, model manipulations are the winner in most of cases due to graphical representation advantages but code manipulations are still useful and comparable.
+
+\begin{table}
+\centering
+\caption{Cost comparison}
+\label{table:cost}
+\begin{tabular}{|l|l|l|}
+\hline
+\rowcolor{Gray}
+Description                                     & Model & Code \\ \hline
+Add a state                                     & 1     & 3    \\ \hline
+Add a transition                                & 1     & 3    \\ \hline
+Add entry/exit action                           & 2     & 2    \\ \hline
+Add transition action (effect) or guard                           & 2     & 2    \\ \hline
+Update action/guard                                   & 1     & 1    \\ \hline
+Redirect target state of a transition           & 1     & 1    \\ \hline
+Create a call event to a transition & 3     & 6    \\ \hline
+Create a time event to a transition & 3     & 5    \\ \hline
+Delete a state                                  & 1     & 2    \\ \hline
+Delete a transition                             & 1     & 3    \\ \hline
+Delete entry/exit action                        & 1     & 2    \\ \hline
+Delete transition action                        & 1     & 2    \\ \hline
+Delete a call event                             & 2     & many \\ \hline
+Delete a time event                             & 2     & many \\ \hline
+\end{tabular}
+\end{table}
+
+In software development, programmers might modify the generated code, the modifications might violate structures of code or USM semantics. To resolve this issue, as previously described, we provide a semantic analysis that partly and loosely inspects the AST of generated code. This inspection approach always reverses the code to the USM as well as the code is state machine-compliant even though the code is not compiled. This approach is very useful in practice in which programmers might partly modify code, automatically update the original USM by our RTE, and automatically re-generate state machine-compliant code. This re-generation does no more than completing missing elements in code meaning that all previous changes are preserved. This practice is also limitedly supported by Fujaba \cite{KNNZ99_2_ag} in which activity and collaboration diagrams are partly synchronized with JAVA.

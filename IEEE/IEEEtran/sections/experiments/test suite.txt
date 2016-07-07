@@ -1,0 +1,79 @@
+[TEST SUITE] - Behavior
+[TEST] Behavior 001 - PASS -
+[TEST] Behavior 002 - PASS -
+[TEST] Behavior 003 A - PASS -
+[TEST] Behavior 003 B - PASS -
+[TEST] Behavior 004 - PASS -
+[TEST SUITE] - Transitions
+[TEST] Transition 001 - PASS -
+[TEST] Transition 007 - PASS -
+[TEST] Transition 010 - PASS -
+[TEST] Transition 011 A - PASS -
+[TEST] Transition 011 B - PASS -
+[TEST] Transition 011 C - PASS -
+[TEST] Transition 011 D - PASS -
+[TEST] Transition 011 E - PASS -
+[TEST] Transition 015 - PASS -
+[TEST] Transition 016 - PASS -
+[TEST] Transition 017 - PASS -
+[TEST] Transition 019 - PASS -
+[TEST] Transition 020 - PASS -
+[TEST] Transition 022 - PASS -
+[TEST SUITE] - OtherTests
+[TEST] TransitionExecutionAlgorithm - PASS -
+[TEST SUITE] - Events
+[TEST] Event 001 - PASS -
+[TEST] Event 002 - PASS -
+[TEST] Event 008 - PASS -
+[TEST] Event 009 - PASS -
+[TEST] Event 010 - PASS -
+[TEST] Event 015 - PASS -
+[TEST] Event 016 A - PASS -
+[TEST] Event 016 B - PASS -
+[TEST] Event 018 - PASS -
+[TEST SUITE] - Entering
+[TEST] Entering 004 - PASS -
+[TEST] Entering 005 - PASS -
+[TEST] Entering 009 - PASS -
+[TEST] Entering 010 - PASS -
+[TEST] Entering 011 - PASS -
+[TEST SUITE] - Exiting
+[TEST] Exiting 001 - PASS -
+[TEST] Exiting 002 - PASS -
+[TEST] Exiting 003 - PASS -
+[TEST] Exiting 004 - PASS -
+[TEST] Exiting 005 - PASS -
+[TEST SUITE] - Exit
+[TEST] Exit 001 - PASS -
+[TEST] Exit 002 - PASS -
+[TEST] Exit 003 - PASS -
+[TEST SUITE] - Entry
+[TEST] Entry 002 A - PASS -
+[TEST] Entry 002 B - PASS -
+[TEST] Entry 002 C - PASS -
+[TEST] Entry 002 D - PASS -
+[TEST SUITE] - Choice
+[TEST] Choice 001 - PASS -
+[TEST] Choice 002 - PASS -
+[TEST] Choice 003 - PASS -
+[TEST SUITE] - Fork
+[TEST] Fork 001 - PASS -
+[TEST] Fork 002 - PASS -
+[TEST SUITE] - Join
+[TEST] Join001 - PASS -
+[TEST] Join002 - PASS -
+[TEST SUITE] - Standalone
+[TEST] Standalone 001 - PASS -
+[TEST SUITE] - Terminate
+[TEST] Terminate 001 - PASS -
+[TEST] Terminate 002 - PASS -
+[TEST] Terminate 003 - PASS -
+[TEST SUITE] - Final
+[TEST] Final001 - PASS -
+[TEST SUITE] - Deferred
+[TEST] Deferred 001 - PASS -
+[TEST] Deferred 002 - PASS -
+[TEST] Deferred 003 - PASS -
+[TEST] Deferred 004 A - PASS -
+[TEST] Deferred 004 B - PASS -
+[TEST] Deferred 005 - PASS -
